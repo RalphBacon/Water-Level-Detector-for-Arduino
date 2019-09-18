@@ -18,12 +18,17 @@ The best aspects of this device is that it is **totally sealed** and has no movi
 
 The device fits through a hole in a water tank, water butt, pond... or anthing else that contains water or other liquid. It could even be fitted to a bracket and totally immersed. It can detect the liquid at various angles, top down, bottom up, sideways; it's really very simple.
 
-<img src="/images/Pololu 328PB.JPG", align="left", width="25%">
+<img src="/images/Pololu 328PB.JPG" align="right" width="25%">
 
-The video contains much more detail and also discusses progress on a couple of other PCB-based projects
+The video contains much more detail and also discusses progress on a couple of other PCB-based projects, such as the ATMEL 328PB processor board shown here. With a huge list of improvements over the standard 328P microcontroller it's probably worth thinking about a new design for this altogether. Probably.  
+* Two I2C channels  
+* Two SPI channels  
+* Extra GPIO pins (at least two, up to six)  
+* An extra UART (Serial) interface
+<br>
 
 ### List of all my videos
-(Special thanks to Michael Kurt Vogel for compiling this)
+(Special thanks to Michael Kurt Vogel for compiling this)  
 http://bit.ly/VideoList-RalphBacon
 
 ### LINKS
