@@ -5,7 +5,7 @@ A simple device that can detect the water level - no moving parts and totally se
 ## See https://www.youtube.com/ralphbacon video #62
 #### Direct link to video: https://youtu.be/aBkPAgrOHhQ
 
-https://www.pcbway.com  
+PCB $5 for 10 pieces https://www.pcbway.com  
 ```
 First order free! 2-sided PCB just $5 for 10 pieces. Assembly for 20-pieces just $30.
 PCB Prototyping the easy way - see my video #129 for Hands-On details.
@@ -18,7 +18,9 @@ The best aspects of this device is that it is **totally sealed** and has no movi
 
 The device fits through a hole in a water tank, water butt, pond... or anthing else that contains water or other liquid. It could even be fitted to a bracket and totally immersed. It can detect the liquid at various angles, top down, bottom up, sideways; it's really very simple.
 
-The video contains much more detail and also discusses progreas on a couple of other PCB-based projects.
+<img src="/images/Pololu 328PB.JPG", align="left", width="25%">
+
+The video contains much more detail and also discusses progress on a couple of other PCB-based projects
 
 ### List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)
