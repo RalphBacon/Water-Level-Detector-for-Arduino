@@ -25,7 +25,8 @@ The video contains much more detail and also discusses progress on a couple of o
 * Two SPI channels  
 * Extra GPIO pins (at least two, up to six)  
 * An extra UART (Serial) interface
-<br>
+* Unique ID for each chip  
+* Supported by Arduino IDE with a simple update  
 
 ### List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
